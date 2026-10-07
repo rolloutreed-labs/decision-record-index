@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "id": "ADR-1",
+      "status": "accepted"
+    },
+    {
+      "id": "ADR-2",
+      "status": "proposed"
+    }
+  ]
+}
